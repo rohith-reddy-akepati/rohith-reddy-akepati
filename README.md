@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Pursuing**: Master of Science in Information Technology, Clemson University (Graduating December 2025)
+- 🔭 **Pursuing**: Master of Science in Information Technology, Clemson University (Graduated December 2025)
 - 📱 **Specialized in**: Android Development, Kotlin, Jetpack Compose, MVVM Architecture, and RESTful APIs 
 - 🚀 **Current Focus**: Scaling mobile solutions and building high-performance applications 
 ---
