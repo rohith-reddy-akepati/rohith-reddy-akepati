@@ -1,38 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohith Reddy Akepati</h1>
 
-
-
-# 📱 Hi there, I'm Rohith Reddy Akepati! ✨
-
-### 🌟 Senior Android Engineer | Kotlin Specialist | UI/UX Enthusiast 🌟
-
-- [cite_start]🚀 **Impact:** Scaled apps to **500k+ downloads** and supported **40k+ active users**.
-- [cite_start]🛠️ **Engineering:** Deeply focused on **Clean Architecture (MVVM)**, **Jetpack Compose**, and **Modularization**.
-- [cite_start]💡 **Passion:** I turn complex requirements into high-performance mobile experiences with **Kotlin** and **Coroutines**.
-- 🌱 **Learning:** Currently exploring **Kotlin Multiplatform (KMP)** and **Advanced MotionLayout**.
-
-### 🛠️ My Technical Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,gradle,firebase,sqlite,git,github,githubactions,figma,aws,postman" />
-</p>
-
-### 📈 GitHub Stats & Impact
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohith-reddy-akepati&show_icons=true&theme=radical&hide_border=true" alt="Rohith's Stats" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-reddy-akepati&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+  🌟 <b>Android Developer | Kotlin Enthusiast | Problem Solver</b> 🌟
 </p>
 
-<br/><br/><br/>
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/rohith-reddy-akepati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith-reddy-akepati" height="30" width="40" />
-  </a>
-  <a href="mailto:akepatirohithreddy@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akepatirohithreddy@gmail.com" height="30" width="40" />
-  </a>
+<p align="center">
+  <code style="color: #58a6ff; font-family: monospace;">Passionate about creating impactful apps</code> 🌱
 </p>
 
 ---
-*"Building mobile experiences that users love and codebases that developers enjoy."* 🚀
+
+### 👨‍💻 About Me
+
+- [cite_start]🔭 **Pursuing**: Master of Science in Information Technology, Clemson University (Graduating December 2025) [cite: 11, 14]
+- [cite_start]📱 **Specialized in**: Android Development, Kotlin, Jetpack Compose, MVVM Architecture, and RESTful APIs [cite: 6, 7]
+- [cite_start]🚀 **Current Focus**: Scaling mobile solutions and building high-performance applications [cite: 20, 21]
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,java,python,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite,git,github" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohith-reddy-akepati" target="blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akepatirohithreddy@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
