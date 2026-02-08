@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👨‍💻 Rohith Reddy Akepati
+# 👨‍💻 Rohith Reddy Akepati
 ### 📱 Senior Android Engineer | Clean Architecture Advocate | Tech Blogger 🌟
 
 - 🔭 **Currently Engineering:** Scalable mobile solutions with a focus on performance optimization.
