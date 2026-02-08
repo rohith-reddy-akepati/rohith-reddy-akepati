@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👨‍💻 Rohith Reddy Akepati
-### 📱 Senior Android Engineer | Clean Architecture Advocate | Tech Blogger 🌟
+### 📱 Android Engineer | Clean Architecture Advocate
 
 - 🔭 **Currently Engineering:** Scalable mobile solutions with a focus on performance optimization.
 - ⚡ **Technical Expertise:** Specialized in **Modularization**, **Custom UI Components**, and **Reactive Programming**.
@@ -13,8 +13,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin,android,java,gradle,maven,git,github,githubactions,firebase,sqlite,mongodb,postman,aws,figma" />
 </p>
 
-### 📊 My GitHub Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohith-reddy-akepati&theme=radical)
 
 ---
 
@@ -29,7 +27,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
