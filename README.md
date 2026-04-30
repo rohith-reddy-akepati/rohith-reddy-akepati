@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Reddy Akepati</h1>
 
 <p align="center">
-  🌟 <b>Android Developer | Kotlin Enthusiast | Problem Solver</b> 🌟
+  🌟 <b>Android & iOS Developer | Kotlin · Swift | Mobile Engineer</b> 🌟
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Education**: Master of Science in Information Technology, Clemson University (Graduated December 2025)
-- 📱 **Specialized in**: Android Development, Kotlin, Jetpack Compose, MVVM Architecture, and RESTful APIs 
+- 📱 **Specialized in**: Android (Kotlin, Jetpack Compose, MVVM), iOS (Swift, SwiftUI, UIKit), React Native, and RESTful APIs 
 - 🚀 **Current Focus**: Scaling mobile solutions and building high-performance applications 
 ---
 
